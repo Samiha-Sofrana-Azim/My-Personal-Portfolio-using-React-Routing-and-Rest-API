@@ -1,0 +1,15 @@
+.works {
+    flex-grow: 1;
+    
+  }
+  
+  .works h1 {
+    margin-bottom: 20px;
+  }
+  .works h3{
+    text-align:center;
+  }
+  .works p,li{
+    color:black;
+    text-align:center;
+  }

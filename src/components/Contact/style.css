@@ -1,0 +1,16 @@
+
+.contact {
+    flex-grow: 1;
+  }
+  
+  .contact h1 {
+    margin-bottom: 20px;
+  }
+
+  .contact h4{
+    text-align:center;
+  }
+  
+  Footer{
+    padding:10px;
+  }
